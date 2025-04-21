@@ -9,7 +9,7 @@ Pin 12     ----> Relay de TX. Conectar RL2017 y RL2018 0V en RX
 Pin 13     ----> LED/Buzzer de sintonía
 Pin A6     ----> Botón manual de TUNE (opcional)
 Pines 10-11 <---> Radio FT-857D (CAT)
-```
+
 
 ## Valores Iniciales por Banda
 
