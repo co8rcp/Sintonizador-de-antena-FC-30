@@ -1,6 +1,6 @@
 /*************************************************************************
  * FC-30 Tuner Emulator Full Band Version for FT-857D
- * Cortesía de CO8RCP  Ray Manuel Castellanos Parra co8rcp @gmail.com
+ * Cortesía de CO8RCP  Ray Manuel Castellanos Parra co8rcp@gmail.com
  * Bandas cubiertas (igual que el FC-30 original):
  * - 160m (1.8-2.0 MHz)
  * - 80m (3.5-4.0 MHz)
@@ -32,7 +32,7 @@ const int inputCapPins[4] = {6, 7, 8, 9};      // ABCD capac. entrada
 const int outputCapPins[4] = {A0, A1, A2, A3}; // ABCD capac. salida
 
 // Pines adicionales
-#define TX_RELAY_PIN 12     // Relay de TX dentro del tuner
+#define TX_RELAY_PIN 12     // Relay de TX dentro del tuner RL2017 y RL2018.
 #define TUNE_STATUS_PIN 13  // LED/buzzer de estado de sintonía
 #define TUNE_BUTTON_PIN A6  // Botón manual de sintonía (opcional)
 
