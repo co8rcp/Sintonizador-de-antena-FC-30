@@ -1,0 +1,26 @@
+## Diagrama de Conexiones Actualizado
+## CO8RCP   co8rcp@gmail.com
+Arduino Nano              Componentes Externos
+-----------              ----------------
+Pines 2-5   ----> ABCD Inductancias (8 relés)
+Pines 6-9   ----> ABCD Capac. Entrada (8 relés)
+Pines A0-A3 ----> ABCD Capac. Salida (8 relés)
+Pin 12     ----> Relay de TX
+Pin 13     ----> LED/Buzzer de sintonía
+Pin A6     ----> Botón manual de TUNE (opcional)
+Pines 10-11 <---> Radio FT-857D (CAT)
+```
+
+## Valores Iniciales por Banda
+
+1. **160m**: L=5, Ci=3, Co=7
+2. **80m**: L=3, Ci=5, Co=2
+3. **60m**: L=4, Ci=4, Co=3
+4. **40m**: L=2, Ci=4, Co=5
+5. **30m**: L=1, Ci=3, Co=4
+6. **20m**: L=1, Ci=2, Co=3
+7. **17m**: L=0, Ci=1, Co=2
+8. **15m**: L=0, Ci=1, Co=1
+9. **12m**: L=0, Ci=0, Co=1
+10. **10m**: L=0, Ci=0, Co=0
+11. **6m**: L=0, Ci=0, Co=0
