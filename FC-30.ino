@@ -1,6 +1,6 @@
 /*************************************************************************
  * FC-30 Tuner Emulator Full Band Version for FT-857D
- * 
+ * Cortesía de CO8RCP  Ray Manuel Castellanos Parra co8rcp @gmail.com
  * Bandas cubiertas (igual que el FC-30 original):
  * - 160m (1.8-2.0 MHz)
  * - 80m (3.5-4.0 MHz)
