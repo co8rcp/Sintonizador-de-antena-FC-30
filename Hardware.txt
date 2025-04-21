@@ -5,7 +5,7 @@ Arduino Nano              Componentes Externos
 Pines 2-5   ----> ABCD Inductancias (8 relés)
 Pines 6-9   ----> ABCD Capac. Entrada (8 relés)
 Pines A0-A3 ----> ABCD Capac. Salida (8 relés)
-Pin 12     ----> Relay de TX
+Pin 12     ----> Relay de TX. Conectar RL2017 y RL2018 0V en RX 
 Pin 13     ----> LED/Buzzer de sintonía
 Pin A6     ----> Botón manual de TUNE (opcional)
 Pines 10-11 <---> Radio FT-857D (CAT)
